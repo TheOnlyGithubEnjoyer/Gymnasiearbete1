@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Take 01
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.04167
+        value: {x: 0.47649062, y: 0.44301057, z: -0.51708066, w: -0.5561707}
+        inSlope: {x: 4.6435394, y: -7.265254, z: 8.823825, w: -3.7774794}
+        outSlope: {x: 4.6435394, y: -7.265254, z: 8.823825, w: -3.7774794}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.08333
+        value: {x: 0.6699405, y: 0.1403401, z: -0.1494801, w: -0.7135405}
+        inSlope: {x: 2.434877, y: -3.5791206, z: 4.4061627, w: -1.7690641}
+        outSlope: {x: 2.434877, y: -3.5791206, z: 4.4061627, w: -1.7690641}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.125
+        value: {x: 0.6793668, y: 0.14479932, z: -0.1499593, w: -0.70356673}
+        inSlope: {x: -6.318723, y: 5.382907, z: -6.3709745, w: 6.6891026}
+        outSlope: {x: -6.318723, y: 5.382907, z: -6.3709745, w: 6.6891026}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.14167
+        value: {x: 0.46492955, y: 0.32248157, z: -0.36217594, w: -0.48454198}
+        inSlope: {x: -14.324627, y: 11.86935, z: -14.176285, w: 14.631071}
+        outSlope: {x: -14.324627, y: 11.86935, z: -14.176285, w: 14.631071}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.16667
+        value: {x: 0.07028989, y: 0.649479, z: -0.7527288, w: -0.08145987}
+        inSlope: {x: -15.785592, y: 13.079901, z: -15.622121, w: 16.12329}
+        outSlope: {x: -15.785592, y: 13.079901, z: -15.622121, w: 16.12329}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/Root/Camera
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.04167
+        value: {x: 4.68242, y: -0.22886, z: -0.71263}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -104.33581, y: -12.642584, z: 0.057849128}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.08333
+        value: {x: 0.33579, y: -0.75555, z: -0.71022}
+        inSlope: {x: -104.33581, y: -12.642584, z: 0.057849128}
+        outSlope: {x: 20.543076, y: -47.656105, z: 9.99976}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.125
+        value: {x: 1.19182, y: -2.74138, z: -0.29353}
+        inSlope: {x: 20.543076, y: -47.656105, z: 9.99976}
+        outSlope: {x: -8.419007, y: 160.25896, z: -7.285338}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.16667
+        value: {x: 0.841, y: 3.93661, z: -0.59711}
+        inSlope: {x: -8.419007, y: 160.25896, z: -7.285338}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/Root/Camera
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 2
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.16667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []

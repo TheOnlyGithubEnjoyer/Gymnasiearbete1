@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tec 9
+* source:	https://sketchfab.com/3d-models/tec-9-4150563248d94261acc3217c5158193b
+* author:	neyr (https://sketchfab.com/neyr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tec 9" (https://sketchfab.com/3d-models/tec-9-4150563248d94261acc3217c5158193b) by neyr (https://sketchfab.com/neyr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

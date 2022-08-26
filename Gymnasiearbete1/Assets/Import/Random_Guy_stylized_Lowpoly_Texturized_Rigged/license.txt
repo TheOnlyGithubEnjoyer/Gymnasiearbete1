@@ -1,0 +1,11 @@
+Model Information:
+* title:	Random Guy stylized Lowpoly Texturized Rigged
+* source:	https://sketchfab.com/3d-models/random-guy-stylized-lowpoly-texturized-rigged-28c9094189bd4811912c174edc5b1994
+* author:	Romilton.Peixoto (https://sketchfab.com/Romilton.Peixoto)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Random Guy stylized Lowpoly Texturized Rigged" (https://sketchfab.com/3d-models/random-guy-stylized-lowpoly-texturized-rigged-28c9094189bd4811912c174edc5b1994) by Romilton.Peixoto (https://sketchfab.com/Romilton.Peixoto) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
