@@ -8,6 +8,8 @@ public class PlayerMovement : MonoBehaviour
 [Header("Movement")]
 public float moveSpeed;
 
+public float shiftSpeed;
+
 public Transform orientation;
 
 float horizontalInput;
@@ -36,6 +38,16 @@ private void MyInput()
 {
     horizontalInput = Input.GetAxisRaw("Horizontal");
     verticalInput = Input.GetAxisRaw("Vertical");
+
+    if (Input.GetKeyDown ("left shift"))
+        {
+            moveSpeed = 30;
+        }
+    if (Input.GetKeyUp ("left shift"))
+    {
+        moveSpeed = 15;
+    }
+    
 
 }
 

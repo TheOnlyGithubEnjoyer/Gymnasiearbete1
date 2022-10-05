@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MonsterMovement : MonoBehaviour
 {
-    private float speed = 600;
+    public float moveSpeed;
     void Start()
     {
         
@@ -15,8 +15,13 @@ public class MonsterMovement : MonoBehaviour
         void OnTriggerStay(Collider other) 
         {
             
-        transform.Translate(Vector3.down * speed * Time.deltaTime);
+        transform.Translate(Vector3.down * moveSpeed * 10f * Time.deltaTime);
             
+        }
+                void OnTriggerExit(Collider other) 
+        {
+            
+            Destroy(this.gameObject);
         }
 
 

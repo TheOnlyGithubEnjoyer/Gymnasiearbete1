@@ -1,0 +1,11 @@
+Model Information:
+* title:	CSGO AWP DRAGON LORE
+* source:	https://sketchfab.com/3d-models/csgo-awp-dragon-lore-013c3a1d945a4336a87f889c3d4c25b1
+* author:	WoodenManufacturing (https://sketchfab.com/WoodenManufacturing)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CSGO AWP DRAGON LORE" (https://sketchfab.com/3d-models/csgo-awp-dragon-lore-013c3a1d945a4336a87f889c3d4c25b1) by WoodenManufacturing (https://sketchfab.com/WoodenManufacturing) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
