@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wall hole
+* source:	https://sketchfab.com/3d-models/wall-hole-b3a276bbe1fc4f56b5312b77141e1b43
+* author:	hawk1172 (https://sketchfab.com/hawk1172)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wall hole" (https://sketchfab.com/3d-models/wall-hole-b3a276bbe1fc4f56b5312b77141e1b43) by hawk1172 (https://sketchfab.com/hawk1172) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
