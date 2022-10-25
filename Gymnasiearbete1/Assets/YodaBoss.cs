@@ -9,9 +9,14 @@ public class YodaBoss : MonoBehaviour
 
     public float cur_health = 0f;
     public bool alive = true;
+    public AudioSource soundSource;
 
     void Start() {
-     cur_health = max_health;
+    cur_health = max_health;
+    soundSource = GetComponent<AudioSource> (); 
+    GetComponent<AudioSource>().Play();
+
+
 }
     public void TakeDamage(float amount)
     {
@@ -38,12 +43,13 @@ public class YodaBoss : MonoBehaviour
     
 
         void Update() {
-            transform.Translate(Vector3.down * moveSpeed * 10f * Time.deltaTime);
+            transform.Translate(Vector3.forward * moveSpeed * 10f * Time.deltaTime);
         }
 
         void OnTriggerEnter(Collider other) {
-            transform.Rotate(0, 0, -180);
+            transform.Rotate(0, -180, 0);
         }
+    
 
 
         // void OnTriggerStay(Collider other) 

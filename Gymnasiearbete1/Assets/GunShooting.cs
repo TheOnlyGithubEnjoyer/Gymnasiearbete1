@@ -9,6 +9,11 @@ public class GunShooting : MonoBehaviour
     public GameObject bulletPrefab;
     public float bulletSpeed;
 
+    void Start () {
+
+
+    }
+
     // Update is called once per frame
     void Update()
     {

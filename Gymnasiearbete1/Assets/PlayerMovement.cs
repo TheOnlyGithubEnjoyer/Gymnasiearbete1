@@ -57,6 +57,12 @@ private void MovePlayer()
 
     rb.AddForce(moveDirection.normalized * moveSpeed * 10f, ForceMode.Force);
 }
+ void OnTriggerEnter(Collider someObject)
+     {
+           if (someObject.transform.gameObject.name == "Cube (85)"){
+            Destroy(this.gameObject);
+           }
+     }
 
 }
 
