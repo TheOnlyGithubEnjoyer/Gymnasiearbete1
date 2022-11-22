@@ -19,9 +19,9 @@ public class MonsterMovement2 : MonoBehaviour
         transform.Translate(Vector3.back * moveSpeed * 10f * Time.deltaTime);
             
         }
-        //         void OnTriggerExit(Collider other) 
-        // {
+                void OnTriggerExit(Collider other) 
+        {
             
-        //     Destroy(this.gameObject);
-        // }
+            Destroy(this.gameObject);
+        }
 }

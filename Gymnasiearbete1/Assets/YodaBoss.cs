@@ -16,7 +16,6 @@ public class YodaBoss : MonoBehaviour
     soundSource = GetComponent<AudioSource> (); 
     GetComponent<AudioSource>().Play();
 
-
 }
     public void TakeDamage(float amount)
     {
